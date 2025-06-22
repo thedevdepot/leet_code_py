@@ -1,5 +1,7 @@
-# I am learning DSA using python.
+# My Python LeetCode Study Archive
 ## Here goes nothin...
 
-# first up two sum two_sum.py
+![soEleet](soEleet.jpg)
+
+# First up: Two Sum (two_sum.py)
 
